@@ -1,1 +1,1 @@
-# phuture_staking_contract
+# staking token
